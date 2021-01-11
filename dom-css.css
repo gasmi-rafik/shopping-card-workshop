@@ -1,0 +1,18 @@
+img {
+    height :200px ;
+     width:200px ;
+}
+
+.menu-nabvar{
+    display: flex;
+    justify-content:  space-around;
+    font-style: italic;
+    align-items: center;
+}
+
+.globallist {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
